@@ -1,0 +1,10 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/data_solution",
+    "prod_uri": "mysql://username:@prod_test/esg_data_solution",
+    "admin_email": "user.admin10@gmail.com",
+    "admin_password": "Admin@12345"
+  }
+}
